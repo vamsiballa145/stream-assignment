@@ -50,3 +50,4 @@ readWholeFile();
 streamFile();
 
 module.exports = { readWholeFile, streamFile };
+// ready for submission
